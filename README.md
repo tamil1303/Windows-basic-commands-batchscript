@@ -23,41 +23,65 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+![1](https://github.com/user-attachments/assets/539dfc63-4b77-49fe-9606-b753d9725d96)
+
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+![2](https://github.com/user-attachments/assets/95d585af-52fc-47e2-bd8a-dcd2b261f2a8)
+
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+![3](https://github.com/user-attachments/assets/d6e93a7c-e720-4452-b709-0a8ffe2d4378)
+
 
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+![4](https://github.com/user-attachments/assets/da1c6158-e8f8-48da-a17d-1a0842005396)
+
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+![5](https://github.com/user-attachments/assets/ecff7158-dc75-4a69-a0fb-46d22561a57d)
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
+![6](https://github.com/user-attachments/assets/53e4d131-7518-43c2-8520-edc26d1c041e)
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
+![8](https://github.com/user-attachments/assets/07cd4642-569c-40ad-9e17-730ce944422d)
+
 
 ## COMMAND AND OUTPUT
+![9](https://github.com/user-attachments/assets/45879941-6339-46a1-bbda-5f926ebb6ac5)
+![10](https://github.com/user-attachments/assets/d0b35aac-67f7-4d44-8ea9-611b5cbf80b7)
+
+![11](https://github.com/user-attachments/assets/ea72d09e-04bc-4cfd-ba52-0556afe7a9b6)
 
 List out all the associated file extensions 
+<img width="1377" height="829" alt="image" src="https://github.com/user-attachments/assets/94d7d4d9-14bc-4e33-9d4f-43bcb812c1b0" />
+![13](https://github.com/user-attachments/assets/2f7d69b0-7b34-4cb3-9c90-a14a8c001d98)
+![14](https://github.com/user-attachments/assets/cb4492ab-efca-444b-98f9-3f2434f9abe8)
+![15](https://github.com/user-attachments/assets/d3c0f743-b9c1-4bf5-918f-684d550d16cc)
+
+
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+![16](https://github.com/user-attachments/assets/746498e9-5984-499b-a1c5-15e36e20ec87)
+
 
 ## COMMAND AND OUTPUT
 
@@ -69,6 +93,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+![17](https://github.com/user-attachments/assets/d8f09a95-4427-40bb-9ca5-27aaea74a2f0)
 
 
 
@@ -83,6 +108,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
+![18](https://github.com/user-attachments/assets/d860c161-43f7-405a-ad32-407fe6e58409)
 
 
 
@@ -93,6 +119,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+![19](https://github.com/user-attachments/assets/0ae3a3be-394b-4656-ae86-ad9b3ab3c0a1)
 
 
 
@@ -106,6 +133,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+![20](https://github.com/user-attachments/assets/c7109c49-6e6c-4b47-bbe0-36e0b0d00aec)
 
 
 Write a batch script that displays a simple menu with three options:
@@ -116,6 +144,11 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+![21](https://github.com/user-attachments/assets/fb5c4305-e6d5-4298-9e7b-6c8c5f3525cc)
+
+![22](https://github.com/user-attachments/assets/0d3017d6-89aa-4a1f-af2f-baab006f0cfc)
+
+![23](https://github.com/user-attachments/assets/f6c24ca1-ef93-4e1e-8698-98d66dc64069)
 
 
 
